@@ -11,7 +11,7 @@ def patternCheck(my_int):
     return total
 
 
-with open("2025/Day2/input.txt", "r") as file:
+with open("C:/Users/eckma/OneDrive/Documents/AdventOfCodeOuter/input.txt", "r") as file:
     ID_list = file.read()
     ID_list = ID_list.split(",")
 

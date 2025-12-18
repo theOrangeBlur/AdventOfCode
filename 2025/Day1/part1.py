@@ -1,4 +1,4 @@
-with open("2025\Day1\input.txt", "r") as file:
+with open("C:/Users/eckma/OneDrive/Documents/AdventOfCodeOuter/input.txt", "r") as file:
     directions = file.read()
     directions = directions.split("\n")
 
